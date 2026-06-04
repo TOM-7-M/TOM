@@ -1,0 +1,5 @@
+print("hello")
+print(" i am TOM")
+print("i am studying in 10th standard")
+print("i am studing in st. marys english medium school pulpally")
+print("bye")
