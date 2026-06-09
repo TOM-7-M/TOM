@@ -21,5 +21,5 @@ print(result7)
 #reminder
 g = 57
 h = 8
-result9 = g % h
-print(result9)
+result_9 = g % h
+print(result_9)
